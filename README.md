@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Passionate, curious-minded, and detail-oriented Software Engineer with a strong foundation in Python and C programming.</h3>
 
-<img height="100px" width="800px"  alt="curiosity"  src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-354.gif">
+<img height="400px" width="800px"  alt="curiosity"  src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-354.gif">
 
 - 📫 How to reach me **lexmulwa@gmail.com**
 <p align="left">
