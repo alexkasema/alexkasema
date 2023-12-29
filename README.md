@@ -1,17 +1,51 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Passionate, curious-minded, and detail-oriented Software Engineer with a strong foundation in Python and C programming.</h3>
+<h3 align="center">Passionate, curious-minded, and detail-oriented Software Developer with a strong foundation in Python language.</h3>
+<br>
 
 <img align="right" alt="curiosity" width="400px" height="400" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-354.gif">
 
-- 📫 How to reach me **lexmulwa@gmail.com**
-<p align="left">
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="left">
+  
+- I'm currently working on a Fruits and Vegetables store app **Fruity_Veggies**.
+- I love learning in general and technology intrigues me.
+- I'm a kind and open-minded person.
+- Currently looking for a job as a **Software Engineer**.
+- The ability to make an impact and to make a difference through code is what I love about Software Engineering.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexkasema&show_icons=true&locale=en&layout=compact" alt="alexkasema" /></p>
-<br>
-&nbsp;
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexkasema&show_icons=true&locale=en" alt="alexkasema" /></p> -->
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexkasema&" alt="alexkasema" /></p>
+<div align="center">
+  <a href="mailto:lexmulwa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+
+  <a href="www.linkedin.com/in/alexkasema">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,c,django,react" /> <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,linux,git,github,vim,vscode" />
+  </a>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center"> Stats  </h2>
+<br/>
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com/?user=alexkasema&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
+  
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=alexkasema&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&hide=SCSS&size_weight=0.5&count_weight=0.5" alt="top languages" />
+    
+</div>
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexkasema&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="top languages" /></p> -->
+
