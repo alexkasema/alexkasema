@@ -6,7 +6,7 @@
 
 <div align="left">
   
-- I'm currently working on a Fruits and Vegetables store app **Fruity_Veggies**.
+- I'm currently working on a Fruits and Vegetables store app **MaliGreens**.
 - I love learning in general and technology intrigues me.
 - I'm a kind and open-minded person.
 - Currently looking for a job as a **Software Engineer**.
