@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Passionate, curious-minded, and detail-oriented Software Developer with a strong foundation in Python language.</h3>
-<h4 align="center">Programming Languages and Frameworks: <strong>Python, JavaScript, TypeScript, C, HTML, CSS, NodeJS, Express, ReactJS, NEXTJS, Redux, Tailwind CSS, Bootstrap, MongoDB, SQL
-</strong>.</h4>
+<h4 align="center">Programming Languages and Frameworks: <strong>Python, JavaScript, TypeScript, C, NodeJS, Express, ReactJS, NEXTJS, Redux, Tailwind CSS, Bootstrap, MongoDB, SQL, HTML, CSS</strong>.</h4>
 <br>
 
 <img align="right" alt="curiosity" width="400px" height="400" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-354.gif">
