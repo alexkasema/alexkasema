@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Passionate, curious-minded, and detail-oriented Software Developer with a strong foundation in Python language.</h3>
+<h3 align="center">Passionate, curious-minded, and detail-oriented Software Developer with a strong foundation in Python and JavaScript programming languages.</h3>
 <h4 align="center">Programming Languages and Frameworks: <strong>Python, JavaScript, TypeScript, C, NodeJS, Express, ReactJS, NEXTJS, Redux, Tailwind CSS, Bootstrap, MongoDB, SQL, HTML, CSS</strong>.</h4>
 <br>
 
@@ -10,7 +10,7 @@
 - I'm currently working on a Fruits and Vegetables store app **MaliGreens**.
 - I love learning in general and technology intrigues me.
 - I'm a kind and open-minded person.
-- Currently enrolled in the ALX Software Engineering program, focusing on honing my coding skills and expanding my knowledge in various programming languages and tools.
+- I'm currently enrolled in the ALX Software Engineering program, focusing on honing my coding skills and expanding my knowledge in various programming languages and tools.
 - I have been learning C language through the ALX program, gaining a strong foundation in algorithmic thinking and low-level programming.
 - The ALX Software Engineering program has provided me with a solid understanding of software development principles, version control with Git and GitHub, and working in a collaborative team environment.
 - Currently looking for a job as a **Software Engineer**.
