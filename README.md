@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Passionate, curious-minded, and detail-oriented Software Developer with a strong foundation in Python and JavaScript programming languages.</h3>
-<h4 align="center">Programming Languages and Frameworks: <strong>Python, JavaScript, TypeScript, C, NodeJS, Express, ReactJS, NEXTJS, Redux, Tailwind CSS, Bootstrap, MongoDB, SQL, HTML, CSS</strong>.</h4>
+<h4 align="center">Programming Languages and Frameworks: <strong>Python, JavaScript, TypeScript, C, NEXTJS, Express, ReactJS, NodeJS, Redux, Tailwind CSS, Bootstrap, MongoDB, SQL, HTML, CSS</strong>.</h4>
 <br>
 
 <img align="right" alt="curiosity" width="400px" height="400" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-354.gif">
 
 <div align="left">
   
-- I'm currently working on a Fruits and Vegetables store app <a href="https://maligreens-welcome.onrender.com/" target="_blank">MaliGreens</a>.
+- I'm currently working on a full-stack food ordering web application <a href="https://feast-dash.vercel.app" target="_blank">FeastDash</a>.
 - I love learning in general and technology intrigues me.
 - I'm a kind and open-minded person.
-- I'm currently enrolled in the ALX Software Engineering program, focusing on honing my coding skills and expanding my knowledge in various programming languages and tools.
+- I'm currently enrolled in the ALX Software Engineering program, focusing on honing my coding skills and expanding my knowledge of various programming languages and tools.
 - I have been learning C language through the ALX program, gaining a strong foundation in algorithmic thinking and low-level programming.
 - The ALX Software Engineering program has provided me with a solid understanding of software development principles, version control with Git and GitHub, and working in a collaborative team environment.
 - Currently looking for a job as a **Software Engineer**.
