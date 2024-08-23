@@ -7,7 +7,7 @@
 
 <div align="left">
   
-- I'm currently working on a full-stack food ordering web application <a href="https://feast-dash.vercel.app" target="_blank">FeastDash</a>.
+- I'm currently working on a full-stack food ordering web application <a target="_blank" href="https://feast-dash.vercel.app">FeastDash</a>.
 - I love learning in general and technology intrigues me.
 - I'm a kind and open-minded person.
 - I'm currently enrolled in the ALX Software Engineering program, focusing on honing my coding skills and expanding my knowledge of various programming languages and tools.
