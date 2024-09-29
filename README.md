@@ -22,7 +22,7 @@
   - **Languages**: Python, JavaScript, TypeScript, C
   - **Frameworks/Libraries**: Next.js, React.js, Express.js, Node.js, Tailwind CSS
   - **Databases**: MongoDB, SQL
-  - **Other Technologies**: HTML, CSS
+  - **Other Technologies**: Git, Linux, HTML, CSS
 
 - 🎯 **What Drives Me:** I am passionate about creating impactful software that makes a difference. Learning and mastering new technologies excites me, as does the ability to solve real-world problems through code.
 
