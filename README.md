@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Passionate, curious-minded, and detail-oriented Software Engineer (Web Application Developer) from Nairobi, Kenya.</h3>
+<h1 align="center">Hi 👋, I'm <span style="color: #FF6347;">Alex</span> </h1>
+<h3 align="center">A Passionate, curious-minded, and detail-oriented Software Engineer | Web Application Developer from Nairobi, Kenya.</h3>
 <div align="center">
   <a href="mailto:lexmulwa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
@@ -16,22 +16,19 @@
   
 <!-- About Me Section -->
 ## 👨‍💻 About Me
+<p align="justify">I'm a software engineer with a strong background in developing high-quality web applications. My expertise lies in modern web technologies, and I am currently based in Nairobi, Kenya. As a passionate developer, I believe in the power of code to solve real-world problems and am driven by the impact technology can create. </p>
 
-- 🌟 **Software Engineer focusing on Web Application Development**  
 - 💻 I’m proficient in:
   - **Languages**: Python, JavaScript, TypeScript, C
-  - **Frameworks/Libraries**: Next.js, React.js, Express.js, Node.js, Tailwind CSS
+  - **Frameworks/Libraries**: Next.js, React, Express.js, Node.js, Tailwind CSS
   - **Databases**: MongoDB, SQL
-  - **Other Technologies**: Git, Linux, HTML, CSS
+  - **Other Technologies**: Git, Linux, Prisma, OpenAi, Pinecone
 
 - 🎯 **What Drives Me:** I am passionate about creating impactful software that makes a difference. Learning and mastering new technologies excites me, as does the ability to solve real-world problems through code.
 
 - I’m currently working on: 
-  - [FeastDash](https://github.com/alexkasema/feast-dash) - A user-friendly online food ordering web app
-- Related projects:
-  - [MaliGreens](https://github.com/alexkasema/maligreens) - A marketplace app for fresh produce
-  - [EasyHotel Booking](https://github.com/alexkasema/easy-hotel-booking) - A MERN-based platform for seamless hotel bookings
-
+  - [mypdf-helper](https://github.com/alexkasema/pdf-helper) - AI-powered SaaS platform that lets users upload, index, and interact with PDF documents using **OpenAI** and **Pinecone**
+ 
 - 📫 **How to reach me:**  
   - Email: lexmulwa@gmail.com  
   - LinkedIn: [AlexKasema](https://www.linkedin.com/in/alexkasema)
@@ -40,23 +37,20 @@
 
 ## 🚀 Projects
 
+### 📄 mypdf-helper SaaS
+<p align="justify"> <b>mypdf-helper</b> is an innovative SaaS application that allows users to upload and interact with PDF documents through <b>AI</b>. This platform leverages <b>OpenAI</b> for natural language understanding, enabling users to ask questions about the document’s content. This tool is ideal for professionals, researchers, and students who need quick and reliable insights from large documents. The app offers a free plan and a premium plan for extended features. </p> <table> <tr> <td><strong>Tech Stack:</strong></td> <td>Next.js, TypeScript, MongoDB, Prisma, TRPC, Pinecone.io, OpenAI, Kinde, Stripe, Uploadthing, Tailwind CSS</td> </tr> <tr> <td><strong>Key Features:</strong></td> <td> <ul> <li>Upload and index PDF documents with Pinecone.io</li> <li>Interact with your PDFs using OpenAI-powered AI</li> <li>Infinite Message Loading for Performance</li> <li>A Beautiful And Highly Functional PDF Viewer</li> <li>Streaming API Responses in Real-Time</li> <li>Optimistic UI Updates</li> <li>Subscription-based pricing (Free and Premium plans)</li> <li>Mobile-friendly interface </li> </ul> </td> </tr> </table> <p><strong>Status:</strong> Ongoing development</p> <p><strong>GitHub Repository:</strong> <a href="https://github.com/alexkasema/pdf-helper" target="_blank">mypdf-helper</a></p>
+
 ### 🍔 FeastDash Project
 A web-based food-ordering application that streamlines the online food ordering process, allowing users to browse food categories, view menus, add items to their cart, and make payments securely.  
 - **Tech Stack**: Next.js, TypeScript, MongoDB, Stripe, Cloudinary, Zustand, Tailwind CSS  
 - **Key Features**: User authentication, admin dashboard for CRUD operations, and seamless checkout with Stripe  
-- [View Project](https://github.com/alexkasema/feast-dash)
+- [GitHub Repository](https://github.com/alexkasema/feast-dash)
 
 ### 🥦 MaliGreens Project
 An online store for fruits and vegetables that empowers farmers and vendors to showcase fresh produce.  
 - **Tech Stack**: React.js, Express, MongoDB, Tailwind CSS  
 - **Key Features**: Product listing, cart system, secure payments  
-- [View Project](https://github.com/alexkasema/maligreens)
-
-### 🏨 EasyHotel Booking Project
-A comprehensive platform designed for seamless hotel bookings, with a user-friendly interface for customers and property owners alike.  
-- **Tech Stack**: MERN stack, TypeScript, Tailwind CSS  
-- **Key Features**: Apartment listings, real-time availability, booking management  
-- [View Project](https://github.com/alexkasema/easy-hotel-booking)
+- [GitHub Repository](https://github.com/alexkasema/maligreens)
 
 ---
 
