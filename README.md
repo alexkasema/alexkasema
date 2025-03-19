@@ -19,15 +19,15 @@
 <p align="justify">I'm a software engineer with a strong background in developing high-quality web applications. My expertise lies in modern web technologies, and I am currently based in Nairobi, Kenya. As a passionate developer, I believe in the power of code to solve real-world problems and am driven by the impact technology can create. </p>
 
 - 💻 I’m proficient in:
-  - **Languages**: Python, JavaScript, TypeScript, C
+  - **Languages**: JavaScript, TypeScript, Python
   - **Frameworks/Libraries**: Next.js, React, Express.js, Node.js, Tailwind CSS
-  - **Databases**: MongoDB, SQL
+  - **Databases**: MongoDB, SQL, PostgreSQL
   - **Other Technologies**: Git, Linux, Prisma, OpenAi, Pinecone
 
 - 🎯 **What Drives Me:** I am passionate about creating impactful software that makes a difference. Learning and mastering new technologies excites me, as does the ability to solve real-world problems through code.
 
 - I’m currently working on: 
-  - [mypdf-helper](https://github.com/alexkasema/pdf-helper) - AI-powered SaaS platform that lets users upload, index, and interact with PDF documents using **OpenAI** and **Pinecone**
+  - [Crown CV](https://github.com/alexkasema/crown-cv) - AI-powered SaaS platform that enables users to build professional resumes effortlessly with the help of <b>AI</b>
  
 - 📫 **How to reach me:**  
   - Email: lexmulwa@gmail.com  
@@ -36,6 +36,38 @@
 <!-- Featured Projects Section -->
 
 ## 🚀 Projects
+
+### 📄 Crown CV SaaS
+
+<p align="justify"> <b>Crown CV</b> is a powerful SaaS application that enables users to build professional resumes effortlessly with the help of <b>AI</b>. Leveraging <b>OpenAI's ChatGPT API</b>, this platform assists users in generating high-quality resume content, from professional summaries to work experience descriptions. Designed for job seekers and professionals, Crown CV offers a seamless experience with live preview, customization options, and subscription-based premium features. </p>
+
+<table>
+<tr>
+<td><strong>Tech Stack:</strong></td>
+<td>Next.js 15, TypeScript, PostgreSQL, Prisma, Zustand, OpenAI API, Clerk, Stripe, React Hook Form, Tailwind CSS, Shadcn, Vercel Blobs</td>
+</tr>
+<tr>
+<td><strong>Key Features:</strong></td>
+<td>
+<ul>
+<li>AI-powered resume generation (Professional Summary, Work Experience)</li>
+<li>Live resume preview with real-time updates</li>
+<li>Autosave feature (Saves data after 2 seconds of inactivity)</li>
+<li>Customizable skill badge border-radius and profile picture shape</li>
+<li>Primary text color customization</li>
+<li>Drag & Drop functionality for Work Experience and Education sections</li>
+<li>Print and save resume as PDF using react-to-print</li>
+<li>Subscription-based pricing (Pro & Pro Plus plans)</li>
+<li>Permission system for premium feature access</li>
+<li>Secure authentication and file storage with Clerk & Vercel Blobs</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<p><strong>Status:</strong> Ongoing development</p>
+<p><strong>GitHub Repository:</strong> <a href="https://github.com/alexkasema/crown-cv" target="_blank">Crown CV</a></p>
+
 
 ### 📄 mypdf-helper SaaS
 <p align="justify"> <b>mypdf-helper</b> is an innovative SaaS application that allows users to upload and interact with PDF documents through <b>AI</b>. This platform leverages <b>OpenAI</b> for natural language understanding, enabling users to ask questions about the document’s content. This tool is ideal for professionals, researchers, and students who need quick and reliable insights from large documents. The app offers a free plan and a premium plan for extended features. </p> <table> <tr> <td><strong>Tech Stack:</strong></td> <td>Next.js, TypeScript, MongoDB, Prisma, TRPC, Pinecone.io, OpenAI, Kinde, Stripe, Uploadthing, Tailwind CSS</td> </tr> <tr> <td><strong>Key Features:</strong></td> <td> <ul> <li>Upload and index PDF documents with Pinecone.io</li> <li>Interact with your PDFs using OpenAI-powered AI</li> <li>Infinite Message Loading for Performance</li> <li>A Beautiful And Highly Functional PDF Viewer</li> <li>Streaming API Responses in Real-Time</li> <li>Optimistic UI Updates</li> <li>Subscription-based pricing (Free and Premium plans)</li> <li>Mobile-friendly interface </li> </ul> </td> </tr> </table> <p><strong>Status:</strong> Ongoing development</p> <p><strong>GitHub Repository:</strong> <a href="https://github.com/alexkasema/pdf-helper" target="_blank">mypdf-helper</a></p>
