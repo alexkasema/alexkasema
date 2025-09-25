@@ -22,7 +22,7 @@
   - **Languages**: JavaScript, TypeScript, Python
   - **Frameworks/Libraries**: Next.js, React, Express.js, Node.js, Tailwind CSS
   - **Databases**: MongoDB, SQL, PostgreSQL
-  - **Other Technologies**: Git, Linux, Prisma, OpenAi, Pinecone
+  - **Other Technologies**: Git, Linux, Prisma, OpenAI, Pinecone, n8n, Voiceflow
 
 - 🎯 **What Drives Me:** I am passionate about creating impactful software that makes a difference. Learning and mastering new technologies excites me, as does the ability to solve real-world problems through code.
 
