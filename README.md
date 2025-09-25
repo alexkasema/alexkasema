@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color: #FF6347;">Alex</span> </h1>
-<h3 align="center">A Passionate, curious-minded, and detail-oriented Software Engineer | Web Application Developer from Nairobi, Kenya.</h3>
+<h3 align="center">A Passionate, curious-minded, and detail-oriented Software Engineer | AI Automation Expert from Nairobi, Kenya.</h3>
 <div align="center">
   <a href="mailto:lexmulwa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
